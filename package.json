@@ -11,9 +11,9 @@
     "format": "prettier --write ./src"
   },
   "dependencies": {
-    "ra-data-fakerest": "^5.0.0-beta.2",
+    "ra-data-fakerest": "^5.0.0-beta.3",
     "react": "^18.2.0",
-    "react-admin": "^5.0.0-beta.2",
+    "react-admin": "^5.0.0-beta.3",
     "react-dom": "^18.2.0"
   },
   "devDependencies": {
